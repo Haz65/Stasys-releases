@@ -1,0 +1,6 @@
+{
+  "latest": "v0.28",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.28.zip",
+  "notes": "Auto-updater goes live: real signing key baked in; in-app Update & restart; per-user install; self-versioned docs; v0.22-0.27 engine improvements.",
+  "sig": "LH5OdKsu694BYXisFQBHl+Dq1FcvLHNaNV3PK7uj4I1u8EQfzTFM+CFMyLITUygrkAyry3u3JlXFIQAM6GlkekV+37QGglm1UESK2gOaO7si7rrTOUJsMjP8Ld7cWLncu8Ds6q1NZ6r3lDIa1Rak983tMhjbcsXfwVOGu2VKpoL40zBWktKgzg+RZ2fgum59A6IgwDBior+xXXzWKjNCBR0PSHgAIGmkxmWoOM15DsXnr8B162wxHbQJ6jfsOoQC4hWg39yQirAShX2hP6Ej6nllHcKip0dHVuRW+68TzJS0liABeh/G5pvniiCc55qlaYQQ29+Qgw8R54+6BEN0jg=="
+}
