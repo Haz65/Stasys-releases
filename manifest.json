@@ -1,6 +1,6 @@
 {
-  "latest": "v0.30",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.30.zip",
-  "notes": "Fix: the 'update available' tag no longer downloads the zip; use the Update & restart button.",
-  "sig": "BXUbgNEnj4olBT2OOaMeOjoX6QxWQz5G8BcsKJgKUWbEyUqpfdhoA4TPlyfuHT226p0VhGbMurZHcuI8cYZo3OflDgmRo6Y6ZqIoqIJiloj4p3QRjLwqTCY0M38u0xXPB6MPhEUT3VIrooT1YU5GNueA9xim6fVC1PLdse8uv9oL1014YeANkBgtI/s4L8XueVunawftGbZlF0oKZ9Db5Xj77VemzJt6pN/+nqHyHq7OCiZcSsNBTDV983o4aDgfjZC6mD8E5HZyU3Q4MEA6q3rDE2jgXkdqr4b0MPrEcl1+EdCntipWKtuInjs+7K8ogv2BJL34QPV95iVMlJawrg=="
+  "latest": "v0.31",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.31.zip",
+  "notes": "Shared boards: turn on Share to view/edit this board from your other devices over Tailscale.",
+  "sig": "vXkHfPcmZhXM/0woLrxUAJlsdCwQZsO2fen9+sGhGkUFYtJYT757JkkZZmVqoIrz7ujdhZWfcSoquiC/+ch9fTGmv2vL93XOyluLE/r/okIYoUSXIYJM0ltsYbgmn32rSBxqptqp1BQ8mMBgtHKnaOBY5t5lkGprCxnB5jlB+mfs4vuHGy2rpI+JK6WkToO0gaBCVLYrrABfqzoTwUyfVfMpm5BkKdS7MQoLqoqoGejZ1s5dW81Rp4WjKQ+EFmjZ+PY7lmpfEi48NiDOpUeT2Mj7LZLPS8zOji47D+QQaTsRbSZjTyMrfkPhmKDpJVcjEqb2IuYYtYUBoTONUcsg8g=="
 }
