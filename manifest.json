@@ -1,6 +1,6 @@
 {
-  "latest": "v0.29",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.29.zip",
-  "notes": "Zero-config feed: Stasys now checks for updates automatically with no setup.",
-  "sig": "Vy0Bbf53y+ovHoiSRMMij51T2Ohdkc9gAVu0Ci548oHC1SYf5RhwZ1eWYcVYhGdJlo0FsC62zY5AfilBxj/QS3EZb9Yw+v4t68MYYV9KS6FR/aWLAg4RiCp9CiJE0S/cVtgwz0Fs59R8xcQj3XyV4mtj7+5Xg8PiALEd+ShGFC6uLmM9MW+zbDsySwbozrsYa61NETn4HYaIZ/RW4shj17qv/RqA4X81CwP0CyTlynXNt85NhBlN4u10aVnnBQYmanVus6YRB5bMwEJaqM1cg1PHzJJxP9HwXKXvdseLA8CTWD/pP3iE0prh768os2QKVftDLUWKvMFREGERWApzrw=="
+  "latest": "v0.30",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.30.zip",
+  "notes": "Fix: the 'update available' tag no longer downloads the zip; use the Update & restart button.",
+  "sig": "BXUbgNEnj4olBT2OOaMeOjoX6QxWQz5G8BcsKJgKUWbEyUqpfdhoA4TPlyfuHT226p0VhGbMurZHcuI8cYZo3OflDgmRo6Y6ZqIoqIJiloj4p3QRjLwqTCY0M38u0xXPB6MPhEUT3VIrooT1YU5GNueA9xim6fVC1PLdse8uv9oL1014YeANkBgtI/s4L8XueVunawftGbZlF0oKZ9Db5Xj77VemzJt6pN/+nqHyHq7OCiZcSsNBTDV983o4aDgfjZC6mD8E5HZyU3Q4MEA6q3rDE2jgXkdqr4b0MPrEcl1+EdCntipWKtuInjs+7K8ogv2BJL34QPV95iVMlJawrg=="
 }
