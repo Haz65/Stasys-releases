@@ -1,6 +1,6 @@
 {
-  "latest": "v0.31",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.31.zip",
-  "notes": "Shared boards: turn on Share to view/edit this board from your other devices over Tailscale.",
-  "sig": "vXkHfPcmZhXM/0woLrxUAJlsdCwQZsO2fen9+sGhGkUFYtJYT757JkkZZmVqoIrz7ujdhZWfcSoquiC/+ch9fTGmv2vL93XOyluLE/r/okIYoUSXIYJM0ltsYbgmn32rSBxqptqp1BQ8mMBgtHKnaOBY5t5lkGprCxnB5jlB+mfs4vuHGy2rpI+JK6WkToO0gaBCVLYrrABfqzoTwUyfVfMpm5BkKdS7MQoLqoqoGejZ1s5dW81Rp4WjKQ+EFmjZ+PY7lmpfEi48NiDOpUeT2Mj7LZLPS8zOji47D+QQaTsRbSZjTyMrfkPhmKDpJVcjEqb2IuYYtYUBoTONUcsg8g=="
+  "latest": "v0.32",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.32.zip",
+  "notes": "Fix: DEFERRED.md now auto-syncs from external state.json edits (regenerates within ~6s while a board is open, no manual refresh needed).",
+  "sig": "MWEYE356xvQF8iPKppms7TnIWhZvKPxFKrA0SVvUedMfqHjpm4MPuLbwNOPFnBh+Z1jRRNWmZWdEIYUx0t5SCnaewNb7Y/DQTuyORTN08+8iRJ31dhKgwYc9+YjHr+kNAHmCXY+MsJcP8E8knEhhb+0qzLnM+T2mSztQzhcH/E60yZVIJeAHzQQeKfT6mbxa0e8X+T0I7qkOqg6b1idqozSgrzK3+5TWxNkz+zKB8JPc1y2ertqpJTuaHB3kQHr5cJRSgSMu9QwJg7zsQWQzavcYnEVaBJ4SQi+HwkSHXjSYojW8fCAz2cVmzBwrvd2ngb6nWLJC5Lvyedr7MlrDiw=="
 }
