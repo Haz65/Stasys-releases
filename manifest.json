@@ -1,6 +1,6 @@
 {
-  "latest": "v0.33",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.33.zip",
-  "notes": "Fix: a damaged backlog file now fails loudly instead of looking empty - Stasys refuses to overwrite it and tells you what's wrong.",
-  "sig": "nQONbp+crTVgb0zQXOjuJaJGTjJ8msTQXeV2HZ7JOqtg1beKZnhjckcaAgUW5A2dfKAYdi6oVd104Idin8xVsN3gxk7CLoeKR8GnmiAH0hCeUlBB/9dLTTO0puUUDjpknz2Fx9lPl9hORJdqfM08Uy9HF5KOtLDEdn3i819FeqmMjOFxd0sApMwqTfX33kiJ1nTkUpgJfuu4fnj7yUsln+KUT81oRx7VEkzAtbVgBy5Nqf3lSr1XV35kNxYGLxswWO9ESNiA3AOoy1lwaJOyGxvKIq7XQtpggtwNZr8rNZMm+X9PzwxixBMaHZyqjRa2Y5tQa41SLhJ5Zd2z0Kwkpg=="
+  "latest": "v0.34",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.34.zip",
+  "notes": "The app window can now update itself - no reinstall when the Stasys window changes. Includes v0.33's damaged-backlog guard.",
+  "sig": "Ri6gztu6AuTPfnQJarOvPKY1Vo5X9juathiI8/84+JVuBt2C06XEVtdfHBn4i+obc28LH8A7QBzkY2c0kn+hHEUGzcxVTuVn9wjwUPjWT7FnF2yP3NTkf+LbxzHXvsY8XGJxkY9nGHDVZCxJ6g2MnNYzF7+HL4JvwohsGV+ZPO+ciYZa47kU4W6afdRc73U3EGO3B6GPtGE9OqYEsv8/PxmxCZ7nt1+Rib6I59B462J672VRbcp36akgTPnUovt+qgwk0uSkeuPpXLQfrE53ssJw5WcPWVBmKutGYsq7gDVPsdA86MAgkHh0Oe0/3rRUyN+fBdzX5OjvUJ2nRU3NpQ=="
 }
