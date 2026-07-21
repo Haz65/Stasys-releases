@@ -1,6 +1,6 @@
 {
-  "latest": "v0.32",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.32.zip",
-  "notes": "Fix: DEFERRED.md now auto-syncs from external state.json edits (regenerates within ~6s while a board is open, no manual refresh needed).",
-  "sig": "MWEYE356xvQF8iPKppms7TnIWhZvKPxFKrA0SVvUedMfqHjpm4MPuLbwNOPFnBh+Z1jRRNWmZWdEIYUx0t5SCnaewNb7Y/DQTuyORTN08+8iRJ31dhKgwYc9+YjHr+kNAHmCXY+MsJcP8E8knEhhb+0qzLnM+T2mSztQzhcH/E60yZVIJeAHzQQeKfT6mbxa0e8X+T0I7qkOqg6b1idqozSgrzK3+5TWxNkz+zKB8JPc1y2ertqpJTuaHB3kQHr5cJRSgSMu9QwJg7zsQWQzavcYnEVaBJ4SQi+HwkSHXjSYojW8fCAz2cVmzBwrvd2ngb6nWLJC5Lvyedr7MlrDiw=="
+  "latest": "v0.33",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.33.zip",
+  "notes": "Fix: a damaged backlog file now fails loudly instead of looking empty - Stasys refuses to overwrite it and tells you what's wrong.",
+  "sig": "nQONbp+crTVgb0zQXOjuJaJGTjJ8msTQXeV2HZ7JOqtg1beKZnhjckcaAgUW5A2dfKAYdi6oVd104Idin8xVsN3gxk7CLoeKR8GnmiAH0hCeUlBB/9dLTTO0puUUDjpknz2Fx9lPl9hORJdqfM08Uy9HF5KOtLDEdn3i819FeqmMjOFxd0sApMwqTfX33kiJ1nTkUpgJfuu4fnj7yUsln+KUT81oRx7VEkzAtbVgBy5Nqf3lSr1XV35kNxYGLxswWO9ESNiA3AOoy1lwaJOyGxvKIq7XQtpggtwNZr8rNZMm+X9PzwxixBMaHZyqjRa2Y5tQa41SLhJ5Zd2z0Kwkpg=="
 }
