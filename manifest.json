@@ -1,6 +1,6 @@
 {
-  "latest": "v0.34",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.34.zip",
-  "notes": "The app window can now update itself - no reinstall when the Stasys window changes. Includes v0.33's damaged-backlog guard.",
-  "sig": "Ri6gztu6AuTPfnQJarOvPKY1Vo5X9juathiI8/84+JVuBt2C06XEVtdfHBn4i+obc28LH8A7QBzkY2c0kn+hHEUGzcxVTuVn9wjwUPjWT7FnF2yP3NTkf+LbxzHXvsY8XGJxkY9nGHDVZCxJ6g2MnNYzF7+HL4JvwohsGV+ZPO+ciYZa47kU4W6afdRc73U3EGO3B6GPtGE9OqYEsv8/PxmxCZ7nt1+Rib6I59B462J672VRbcp36akgTPnUovt+qgwk0uSkeuPpXLQfrE53ssJw5WcPWVBmKutGYsq7gDVPsdA86MAgkHh0Oe0/3rRUyN+fBdzX5OjvUJ2nRU3NpQ=="
+  "latest": "v0.36",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.36.zip",
+  "notes": "Backlog cards now show their ID number (#25) on the card and in the edit panel, and those numbers are permanent - deleting a card no longer frees its number for reuse. Includes v0.35.",
+  "sig": "H/6zGiZMK5czQmA4ZaNo618RffqaylzM/fil5O9ch1xsduf/Yy5a2FyM5j17qDgKglXJJ6XEuaq9nKWtpdC3eGlImuQpxwJXJ7sU4J612KwGqAxbQygNEMNT7LHKAKKrbnaN1TBomlgTsTltyEsn2otoXsM8xP/3TZTC2QvPMaS1KjYJtRnEjdqpOrAZbhjyI4y0ejqZ+5tPJKPTosI2ShYtdt7xbpMXTrjHLbPj7Njqmo92kxZZsSx2btaIZljeXccnBZqk8OD1JnhsoRtEZR8hq/tFjiFpWZstp2b8IQxcTYcjFx5uNUu4YLEfigy0toL7W2G0irOZngGbWQY1mw=="
 }
