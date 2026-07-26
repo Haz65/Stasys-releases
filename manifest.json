@@ -1,6 +1,6 @@
 {
-  "latest": "v0.37",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.37.zip",
-  "notes": "Cards hold far more writing now: the write-up limit goes from 5,000 to 100,000 characters (roughly 16,000 words). Before this, anything past 5,000 characters was quietly dropped and only vanished the next time the board reloaded.",
-  "sig": "asz9zmAjHALQluuGeibhcPc5HwCTPWT5sjwM64/FbO8LM13MA+F9c7bcEyIVIOopdMpiEIYkvJaPRzU3JXIy069PpW/Qlrc9JbKAMu/7J+FmkRQcMdU/e71ajSRShZ1IpJ+VoT2pMH+Zl5x4/zi6C/M0hCLRjsPelgcLTxC1/vQe0ZaSEri4bi8YWwYoSh+CyhAm/aFFCTew2lvdSfKW0al9KFRB+WckXDlqyW0RznL2EhXybL3ucaEPdSjnvvZpwCAAravIIXrbz/1hRjPqS6/7ZFoKZCDWyJD/NqTaZhp6HLM2HsGXU6vbL2Crv9Uwjlgve9owhwVIwK230TnOgA=="
+  "latest": "v0.38",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.38.zip",
+  "notes": "Finished cards close themselves again. A session write-up naming the cards it finished had quietly stopped working - write-ups are now written as a list, and Stasys could only read the older all-on-one-line form, so it closed nothing and never said so. It now reads both, a write-up can name a card by its number (#174) instead of copying its title, and when a line names something the board can't find, a red strip says so instead of failing in silence. Also: 74 SpaceLogistics records that had no date on the timeline now have one - their version numbers were written in a style Stasys couldn't read.",
+  "sig": "FAqG5eYldH04sGgn1JiiE+SpOEwCKPGoymk/2alX13lFlFT1tuQIk/J1SJcZ6Mmsl+mxPgN1ZBWWSln6Qm18rnhb0fMKgSdHSbj3y8AhIknYQueWrYhw6d2wFZ72WqTfDFQeVfeYJP8i0K2G5GBwF0vfEGrDV06JsiQXq366U6kfNq5KS9Q3HKzuiLaLqRHZ0MtPo7mQ4lKleJlK3XEg3BoYDdwtc86QYYis9FyXoDoyR38FmzXCCARg/989aVTKraWkH4DNftgmavBWHnDJqgjkVqHS8g8Lvx8B+YyMJdi5PdFoo42TxtqRasTeaoKN9EPy3HBx8oA7IATkQCjAJA=="
 }
