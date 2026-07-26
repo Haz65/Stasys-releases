@@ -1,6 +1,6 @@
 {
-  "latest": "v0.36",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.36.zip",
-  "notes": "Backlog cards now show their ID number (#25) on the card and in the edit panel, and those numbers are permanent - deleting a card no longer frees its number for reuse. Includes v0.35.",
-  "sig": "H/6zGiZMK5czQmA4ZaNo618RffqaylzM/fil5O9ch1xsduf/Yy5a2FyM5j17qDgKglXJJ6XEuaq9nKWtpdC3eGlImuQpxwJXJ7sU4J612KwGqAxbQygNEMNT7LHKAKKrbnaN1TBomlgTsTltyEsn2otoXsM8xP/3TZTC2QvPMaS1KjYJtRnEjdqpOrAZbhjyI4y0ejqZ+5tPJKPTosI2ShYtdt7xbpMXTrjHLbPj7Njqmo92kxZZsSx2btaIZljeXccnBZqk8OD1JnhsoRtEZR8hq/tFjiFpWZstp2b8IQxcTYcjFx5uNUu4YLEfigy0toL7W2G0irOZngGbWQY1mw=="
+  "latest": "v0.37",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.37.zip",
+  "notes": "Cards hold far more writing now: the write-up limit goes from 5,000 to 100,000 characters (roughly 16,000 words). Before this, anything past 5,000 characters was quietly dropped and only vanished the next time the board reloaded.",
+  "sig": "asz9zmAjHALQluuGeibhcPc5HwCTPWT5sjwM64/FbO8LM13MA+F9c7bcEyIVIOopdMpiEIYkvJaPRzU3JXIy069PpW/Qlrc9JbKAMu/7J+FmkRQcMdU/e71ajSRShZ1IpJ+VoT2pMH+Zl5x4/zi6C/M0hCLRjsPelgcLTxC1/vQe0ZaSEri4bi8YWwYoSh+CyhAm/aFFCTew2lvdSfKW0al9KFRB+WckXDlqyW0RznL2EhXybL3ucaEPdSjnvvZpwCAAravIIXrbz/1hRjPqS6/7ZFoKZCDWyJD/NqTaZhp6HLM2HsGXU6vbL2Crv9Uwjlgve9owhwVIwK230TnOgA=="
 }
