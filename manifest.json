@@ -1,6 +1,6 @@
 {
-  "latest": "v0.58",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.58.zip",
-  "notes": "The in-progress marker: one card wears a gold ring showing what is being worked on right now - on the backlog, the thread map and the lineage timeline - plus a tag, a header chip and a Mark as working on this button. It never times out, so it is still there in the morning; a slow pulse on the ring means a Claude session is running this second. It clears itself when the card is finished, parked or deleted.",
-  "sig": "pbjmlzzRPEtLqwAI9ErNMIWYHwydJ6Ib8LCHwyMX37XrF7eXarcdwN9pKzQoLhU12zcJCZHJLWZ/cxsHb7wEsBVANwBJalrM56CG2pH7SovPXPgBSuFbzdiddKTxNCnpwN/Rpa7VHgLIzMBvgHC3FgG+g7QJZdkN2PROd005PPnHfahhP9DaSizu6lvGyaiESUHGaqhwN7ZtAJbRslK8Hu4AmyGgw6+hwwyx+b40xD6JufSVYrla3Moyi6WHlwjqSyabnve/kGy87H5ePHhZdUYiULLbdcgJ7ykkqc3QKNR9bEY0mzN0v/mL1+Y6/OoQhMM0mkpyarjej/7zzSvkMw=="
+  "latest": "v0.59",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.59.zip",
+  "notes": "The in-progress marker now admits when it cannot be trusted. A ring that never breathes used to mean either 'nobody is on it' or 'the heartbeat was never switched on for this project' - identical on screen. Stasys now knows the difference and says so in the card panel, with the fix, and it can tell an ended session from a hook that was never installed. And if your newest write-up names different cards than the one wearing the ring, the card and the header chip turn amber: the marker may be out of date. The gold stays - it asks a question rather than overruling you - and nothing ever moves on its own.",
+  "sig": "ZxywngefJd5OTYKzUu2c/93+G9OM5FttXPuJSEsjT+b5lo66C2fs8a2cnnLDNamjI+dgbWT0XHFWSQ0imuLqxTV9YspewqXUJxf0DsnipRqsLBpbA+6xPASDhf287vJ55n6ISzSiJjCE3Pj4nkJaDS+6MLjX//yI5IF4ZfDkQmPfSReVtHlW56bXNLx6k0xN5umCu3ihu8TfJHhjIxYrzyT0fHymO5CKU3vXnql1kgFux62XQcWmtDYdO8yvOlRbHq8X/03BKdRQ/ROP7IVvREV8f2e62w2tk8rAt4caFbkRr6vg02mJKxQdutGT1TM5o4kaXWdgVT5V9QztJmfoQg=="
 }
