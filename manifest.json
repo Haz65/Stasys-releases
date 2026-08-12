@@ -1,6 +1,6 @@
 {
-  "latest": "v0.57",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.57.zip",
-  "notes": "Rolling dated snapshots of state.json: your board now has a history you can go back to, not just a mirrored copy. One small dated copy per project per day, taken before the day's first change, kept inside the project so your existing backup carries it offsite unchanged. Capped at 2 MB per project - and when that fills, Stasys thins the middle rather than dropping the oldest, so how far back you can go never shrinks. It refuses to keep a copy it cannot read back.",
-  "sig": "Vac247oGin2yUAPu+2ZsHq5wnV3onXLnlE14UCYvSqR3LxH6ZyfnUa16rwzJS3xBEI6idPXlfmZcu2SCsGIRGGgAFn/UfYArSzlgnyyy9edOH4sVx6xzUC1/jYZvy3RtfrFrXP9SRm2S0+/2IdCbg6B/QWkrLSzIoXanwGrWbYtAvfDsOBGGnOaLb8/JRn46oQhH7GTuGyoTiyOWcjrNw5j9XrBIEX1ZdZXzIM2U9Pqb6A3nbQ9FCSngrpAtAi4KcdbZOfb3sS0/DqzWe/8h8p5K41Ro0gYVR4b9zduaObCMULdcTWvkRwWxp6NmpfnE3R3VKQWUXGZdH92D/4vAGw=="
+  "latest": "v0.58",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.58.zip",
+  "notes": "The in-progress marker: one card wears a gold ring showing what is being worked on right now - on the backlog, the thread map and the lineage timeline - plus a tag, a header chip and a Mark as working on this button. It never times out, so it is still there in the morning; a slow pulse on the ring means a Claude session is running this second. It clears itself when the card is finished, parked or deleted.",
+  "sig": "pbjmlzzRPEtLqwAI9ErNMIWYHwydJ6Ib8LCHwyMX37XrF7eXarcdwN9pKzQoLhU12zcJCZHJLWZ/cxsHb7wEsBVANwBJalrM56CG2pH7SovPXPgBSuFbzdiddKTxNCnpwN/Rpa7VHgLIzMBvgHC3FgG+g7QJZdkN2PROd005PPnHfahhP9DaSizu6lvGyaiESUHGaqhwN7ZtAJbRslK8Hu4AmyGgw6+hwwyx+b40xD6JufSVYrla3Moyi6WHlwjqSyabnve/kGy87H5ePHhZdUYiULLbdcgJ7ykkqc3QKNR9bEY0mzN0v/mL1+Y6/OoQhMM0mkpyarjej/7zzSvkMw=="
 }
