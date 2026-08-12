@@ -1,6 +1,6 @@
 {
-  "latest": "v0.56",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.56.zip",
-  "notes": "Resume notes: the engine stamps the note's date itself now, whoever writes it - so a note written by Claude is no longer undated. An undated note reads as 'date unknown' in amber instead of looking healthy, and a note whose card has been edited since says so.",
-  "sig": "nS8b75abaZlK8OsoCgGCs80cDcsxxhDkMZnJCfVC8RVT7PW/oVrGzPq4rnhUowaKcG3Ny0p+gaLywuedUr5AAgnWNxR2FFxIEil02kBgcEswsv4d4gNyeTw66mMFURXmDHDejoVUEzThEQ2Yx3TbtUi58h841JcpfCwWOcErVqgspGEMt1WYt2pGa+POOmW0oGToJFXjpkuZE2YMZ59P3UWZLUKGULrcrw6DeyNtafZKpS+cMLH4JTGyyEsWrFPFbG+yP/WZ5nLIoj9AYVm3d0MKvCSFcCaJqBROQMX2pRL6Z2Agg8m1n4675g6Fo5K2kuXerGMcVHs2Lo1hfMOrBA=="
+  "latest": "v0.57",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.57.zip",
+  "notes": "Rolling dated snapshots of state.json: your board now has a history you can go back to, not just a mirrored copy. One small dated copy per project per day, taken before the day's first change, kept inside the project so your existing backup carries it offsite unchanged. Capped at 2 MB per project - and when that fills, Stasys thins the middle rather than dropping the oldest, so how far back you can go never shrinks. It refuses to keep a copy it cannot read back.",
+  "sig": "Vac247oGin2yUAPu+2ZsHq5wnV3onXLnlE14UCYvSqR3LxH6ZyfnUa16rwzJS3xBEI6idPXlfmZcu2SCsGIRGGgAFn/UfYArSzlgnyyy9edOH4sVx6xzUC1/jYZvy3RtfrFrXP9SRm2S0+/2IdCbg6B/QWkrLSzIoXanwGrWbYtAvfDsOBGGnOaLb8/JRn46oQhH7GTuGyoTiyOWcjrNw5j9XrBIEX1ZdZXzIM2U9Pqb6A3nbQ9FCSngrpAtAi4KcdbZOfb3sS0/DqzWe/8h8p5K41Ro0gYVR4b9zduaObCMULdcTWvkRwWxp6NmpfnE3R3VKQWUXGZdH92D/4vAGw=="
 }
