@@ -1,6 +1,6 @@
 {
-  "latest": "v0.55",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.55.zip",
-  "notes": "The timeline now shows what you are actually working on. Stasys reads your project's git log, so a card's bar is faint for the stretch it has been open and carries solid marks on the days work really happened. Bars fade as they go quiet and keep their arrow only while there is recent work. Also covers v0.50-v0.53: finished threads hidden on the map, the lineage timeline and its filters, and a map that uses the width available.",
-  "sig": "MC2uWTq+x4ZU0NEkPL9+ENsSeuy5eB52wQnPE9Xb/iqQoW2wu0rUbu1YftxHUtWwroLnQaUrQlDnlMEiU8pUGQ0Bq8uUWmlgIspxckj2KudNx4KmDUYrgiT/RzmN837VUH+csPAwza6qh2zLSSvEOVqUl18XdrXEBP2oB2kcHOjgCqyJQhetQGZxzjtA3jqsrSZ2cwJAN9lpJzrH5/b6LbX+xJ11HT+th1vtRSk/Bh5aDUMLCHpnHOPq+VI925f+ACpqDlKw69hdscb3cibIsEf0QDOPdYrryPZR5S3KIJh9/9B8WSz2SPk3ZCzOYihZsS0RRfn60yPu0gg5pPg6bA=="
+  "latest": "v0.56",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.56.zip",
+  "notes": "Resume notes: the engine stamps the note's date itself now, whoever writes it - so a note written by Claude is no longer undated. An undated note reads as 'date unknown' in amber instead of looking healthy, and a note whose card has been edited since says so.",
+  "sig": "nS8b75abaZlK8OsoCgGCs80cDcsxxhDkMZnJCfVC8RVT7PW/oVrGzPq4rnhUowaKcG3Ny0p+gaLywuedUr5AAgnWNxR2FFxIEil02kBgcEswsv4d4gNyeTw66mMFURXmDHDejoVUEzThEQ2Yx3TbtUi58h841JcpfCwWOcErVqgspGEMt1WYt2pGa+POOmW0oGToJFXjpkuZE2YMZ59P3UWZLUKGULrcrw6DeyNtafZKpS+cMLH4JTGyyEsWrFPFbG+yP/WZ5nLIoj9AYVm3d0MKvCSFcCaJqBROQMX2pRL6Z2Agg8m1n4675g6Fo5K2kuXerGMcVHs2Lo1hfMOrBA=="
 }
