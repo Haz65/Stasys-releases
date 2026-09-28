@@ -1,6 +1,6 @@
 {
-  "latest": "v0.60",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.60.zip",
-  "notes": "A document that has fallen behind now says so where you will see it. If a project's Project Bible (or any core doc that tracks the project version) is older than the newest session record, an amber chip appears at the top of the board naming both versions - Project Bible v10.53, sessions v10.58 - with the full sentence inside the Documents panel. Nothing is ever blocked; click the chip to go and look. Stasys had actually spotted this for years, as a small drift tag buried in a panel nobody opens - a warning you have to go looking for is not a warning. It only speaks up when the doc is BEHIND, never when you have written it ahead of the write-up, which is the normal order. If your config points at a document by pattern and nothing matches, it now says so out loud instead of vanishing silently. And it picks the newest matching document by NUMBER rather than alphabetically: a project past v10 had been reading a nine-version-old Bible while reporting it current. A project with no such document stays quiet.",
-  "sig": "XvotVuBuwg4yxPgiWM+BJBhaFG59JjN1OyEeuOoUor8H2dKVQWecmKicsMwLUY0dQ2IG9BxFb3A1nH0vWl7GB6fHr+3JYMBSaPf99YwZjEkQFCCh2cwfRca54Ody0/Gj5SUnVxGBdvGSB8Y3EIptCf3Jc2iY2PrvPFZv99AEc78MufPHDAcfD6cLzrl7NDbtM3Y79L9QhYykiy28wEL/rb5F/XOkuoAwT2EaKAOAy7Z0x5AhJEtkVNzKakJzqOwdYFtGzo81HOsX+mLycWp2F/ovHpkyWkz2gamF77V1+BRHgTjae2V+ByLjMadjXyXEWoPinAD301VQ7FsQM5/b9Q=="
+  "latest": "v0.61",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.61.zip",
+  "notes": "Cards hold twice as much writing: write-ups and resume notes now take up to 200,000 characters (was 100,000).",
+  "sig": "W0oCzF/239HuEbP+pyTuTdjw+3iX6ekiaPYaOKBKcDhqXwd3+7mnqm0SLslpgcH/Vdxt3oR4Vy7VoYCp+x1yuy9NX+UvPS9Ty5Ivk5t0MEm7M6TcfaI2yg+1USTwnIA7Su/eRYTWcFpKjUVCcbhwZCYTkdjiPI50/PSpmjYUkAiMKtzoO93prtMVBiSH7IoscatuXdXtQv/GdajjjnwRPoRr8XqgGdeNIJQ8/+l3BjhPobnA8qCZNGf037HW4xu+h+PlWtrphIHUUfT8QtLmWsroC0yKWR0JHUk1j1abSv3jABhfr0l2qr+IqwD982J4T6OGVHoADQDY7CSWBb8CHA=="
 }
