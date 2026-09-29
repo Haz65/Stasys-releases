@@ -1,6 +1,6 @@
 {
-  "latest": "v0.61",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.61.zip",
-  "notes": "Cards hold twice as much writing: write-ups and resume notes now take up to 200,000 characters (was 100,000).",
-  "sig": "W0oCzF/239HuEbP+pyTuTdjw+3iX6ekiaPYaOKBKcDhqXwd3+7mnqm0SLslpgcH/Vdxt3oR4Vy7VoYCp+x1yuy9NX+UvPS9Ty5Ivk5t0MEm7M6TcfaI2yg+1USTwnIA7Su/eRYTWcFpKjUVCcbhwZCYTkdjiPI50/PSpmjYUkAiMKtzoO93prtMVBiSH7IoscatuXdXtQv/GdajjjnwRPoRr8XqgGdeNIJQ8/+l3BjhPobnA8qCZNGf037HW4xu+h+PlWtrphIHUUfT8QtLmWsroC0yKWR0JHUk1j1abSv3jABhfr0l2qr+IqwD982J4T6OGVHoADQDY7CSWBb8CHA=="
+  "latest": "v0.62",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.62.zip",
+  "notes": "Cards hold 1,000,000 characters (was 200,000), and text is never cut off: an over-long field is refused with a message naming the card, your text stays put, and a counter + card tag warn from 80%. One save may now be up to 50 MB.",
+  "sig": "MZ+2Yp5Lh5TL/LLn59rC64CdMZH9Y06iDxPNWLisNTm30cHGmIdiihTEC3vOpQ9SQaommua1qsA6gt0JBNS3kWILBNErVKfES2PfF2puMpjPedFSDOoEUBS+k+mFKtz1fNSjXOeuY7aT7ed7mbmSb4u/a54Jjh4Cffu3lDZxb1tWmifz0WRVo5oP7NH1DXd0EvuEDFVF7/naHvurSjWXnLzuhKOqKZKlvt+W+wFZ5YkMmAeTnLrbUiCsng4p8syV8yZ97aTudyJ58K/P+9nSmMXoJWkvBNglZjCITyfNJqp83gNlzqgQ7LcIR43NH4dpsRRgb+3oOCIUQrLCmA5ZkQ=="
 }
