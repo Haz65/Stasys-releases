@@ -1,6 +1,6 @@
 {
-  "latest": "v0.63",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.63.zip",
-  "notes": "Two copies of a board can now be merged card by card (a command a sync tool runs: server.py --merge), the piece that lets a board be shared with no host PC. On the board itself: when two saves collide, a card you added halfway up the list stays there instead of dropping to the bottom.",
-  "sig": "BaK0mVF70qPUxYBc4qwSeteahiuZkofs4iLb86W0L3Df50kmvIUeqJQhRKfgKXFkvkC2I+AEXTDT91Cx2B7Pk5t+nPcS2cvvZufXYooU/sahHfvhqr+H6jZrThaK3dnWyTzSlthm8X2Y+HsepklYoM7Yj7UmaeVMacWV3WDHaBrCiNIXASNFWFnHGz3xGPfto0izUMol7f5XIr7pb+6gtkEVtPZZkCYZvL66s49cFYicOfyCM8w6EdIzBIDDYu+H1Xs256R8s0xzJxYV+xg1dIpeNyPQK1ya8/3rfHOfnWdhu8aUXJLVWePWQ3GTkZ9fQbXlMIBmEiA0TfcpoZFaFQ=="
+  "latest": "v0.65",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.65.zip",
+  "notes": "Two things. Connect Claude: a new button that sets a project up for Claude Code in one click and one pasted sentence, so Claude knows how the board works and /stasys-audit and /stasys-fix run on your computer. And a project can now live anywhere on your drive: + New project opens the ordinary Windows folder window, and the folder you pick is the project - a folder that is already a Stasys project keeps its board exactly as it is.",
+  "sig": "bCwEPHpB8WrTOCPjmd8P8wQLJIiepdDhGq48aQ9D2cMigoAbfwQ0fRCOkDfpl7G12xCRnS97N5tSlBK1xBUZq8p+qul7Tua83Bg8NN4MfWs+iCZOqM2Cv0b0BCgB/1QDqorWP9rmqZHx8oweDECmFPWBao2G/JdGT3VQzVeqklaviyeiOS4zoEVJ60ooEqczTZ7oZFAbDRqMsA4CkmBd70GCmpFti91qad70jR1cFiD2OAXsRX3Ii0YBYv60/9+zia3AOPat5SbTAorHFHNORRhdKbnQwRgk06KxnYYxDkfID0mqClsE64Z943HQ7mumcvViRs8lNc7X8d+yT5Bf4w=="
 }
