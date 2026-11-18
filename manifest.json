@@ -1,6 +1,6 @@
 {
-  "latest": "v0.65",
-  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.65.zip",
-  "notes": "Two things. Connect Claude: a new button that sets a project up for Claude Code in one click and one pasted sentence, so Claude knows how the board works and /stasys-audit and /stasys-fix run on your computer. And a project can now live anywhere on your drive: + New project opens the ordinary Windows folder window, and the folder you pick is the project - a folder that is already a Stasys project keeps its board exactly as it is.",
-  "sig": "bCwEPHpB8WrTOCPjmd8P8wQLJIiepdDhGq48aQ9D2cMigoAbfwQ0fRCOkDfpl7G12xCRnS97N5tSlBK1xBUZq8p+qul7Tua83Bg8NN4MfWs+iCZOqM2Cv0b0BCgB/1QDqorWP9rmqZHx8oweDECmFPWBao2G/JdGT3VQzVeqklaviyeiOS4zoEVJ60ooEqczTZ7oZFAbDRqMsA4CkmBd70GCmpFti91qad70jR1cFiD2OAXsRX3Ii0YBYv60/9+zia3AOPat5SbTAorHFHNORRhdKbnQwRgk06KxnYYxDkfID0mqClsE64Z943HQ7mumcvViRs8lNc7X8d+yT5Bf4w=="
+  "latest": "v0.66",
+  "url": "https://raw.githubusercontent.com/Haz65/Stasys-releases/main/Stasys_v0.66.zip",
+  "notes": "Claude now reads far less at the start of a session. The board's plain-text summary (.tracker/DEFERRED.md) used to hold the full text of every card, finished and cut ones included, so it only ever grew. It is now a short list: one line a card with its number, finished and cut cards by title only, and the start of each open card's write-up. Claude reads a single card in full when it needs one. Nothing is removed from your board, and existing projects switch over by themselves the next time their board is open.",
+  "sig": "ppPEqRPAq9lN0UkuM+Y4VAhXfYyD+FnbG4rHCyW3u5wdVWnVpF72RRgkSI9lv+Wo9Epfbgv//Y7vCDJZn9Bw98wdMJ0IiL9E/wQ9WGxalUUWT06f7V7nAZaIQBE9q6PJTa1l/f+nM+r4fdNtXxFqIKJueLIArhE2M+Rey3JvvP4EKF4BSdlBVK6jesX/v9w6TsT6ww0BnLjsiAr9OW4LMhLvLY478j9Aks74nGEobffVuuIXABk6Hd+ejSPykcoDrZtp4O8bPKoMghSBEbyZvlV0vrxZ1UYovZjRxopJ0tnndrpUoHvw6dvQm1+6DxahVW9WwN1OftsI5429AqFJJw=="
 }
